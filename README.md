@@ -1,7 +1,5 @@
 <img src="https://i.imgur.com/pPHCIwR.gif" />
 <img src="https://imgur.com/it55MM7.png" />
-<br />
-<br />
 
 Olá, sou um Desenvolvedor Front-End, tenho 22 anos e atualmente moro no Rio de Janeiro. 
 
