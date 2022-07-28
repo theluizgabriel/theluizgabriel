@@ -13,5 +13,5 @@ Olá, sou um Desenvolvedor Front-End, tenho 22 anos e atualmente moro no Rio de 
 
 ## Redes sociais e contatos
 <a href="https://www.linkedin.com/in/theluizgabriel/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
