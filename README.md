@@ -1,8 +1,5 @@
 <img src="https://i.imgur.com/pPHCIwR.gif" />
 <img src="https://imgur.com/it55MM7.png" />
-<a href="https://www.linkedin.com/in/theluizgabriel/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <br />
 <br />
 
@@ -13,3 +10,8 @@ Olá, sou um Desenvolvedor Front-End, tenho 22 anos e atualmente moro no Rio de 
 
 ## Aprendendo
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+## Redes sociais e contatos
+<a href="https://www.linkedin.com/in/theluizgabriel/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
