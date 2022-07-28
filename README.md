@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/theluizgabriel/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 
 Olá, sou um Desenvolvedor Front-End, tenho 22 anos e atualmente moro no Rio de Janeiro. 
 
