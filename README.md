@@ -17,4 +17,4 @@ Olá, sou Desenvolvedor Front-End, tenho 22 anos e atualmente moro no Rio de Jan
  	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </ a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theluizgabriel)](https://github.com/theluizgabriel/github-readme-stats)
+![Luiz Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=theluizgabriel&count_private=true)
