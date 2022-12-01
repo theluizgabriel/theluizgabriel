@@ -4,11 +4,6 @@
 Olá, sou Desenvolvedor Full Stack, tenho 22 anos e atualmente moro no Rio de Janeiro (também sou nascido aqui 😃). 
 <br /><br />
 
-<div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theluizgabriel&layout=compact&theme=dark">
-</div>
-<br />
-
 ### Linguagens
 <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-e2e2e2?style=for-the-badge&logo=typescript&logoColor=black" />
 
@@ -30,15 +25,14 @@ Olá, sou Desenvolvedor Full Stack, tenho 22 anos e atualmente moro no Rio de Ja
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <br />
-<div style="display: flex;" >
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-<span>&nbsp;&nbsp;lgabrielpessoal@gmail.com</span>
-</div>
 
 <br /> <br />
  
- <div style="display: flex; justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=theluizgabriel&count_private=true&theme=dark">
+<div style="display: flex; justify-content: center;">
+<img style="margin-right: 4px"
+     src="https://github-readme-stats.vercel.app/api?username=theluizgabriel&count_private=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theluizgabriel&layout=compact&theme=dark">
 </div>
+<br />
 <br />
 
