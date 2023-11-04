@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/pPHCIwR.gif" />
 <img src="https://imgur.com/it55MM7.png" />
 
-Olá, sou Desenvolvedor Full Stack, tenho 22 anos e atualmente moro no Rio de Janeiro (também sou nascido aqui 😃). 
+Olá, sou Desenvolvedor Full Stack, tenho 23 anos e atualmente moro no Rio de Janeiro (também sou nascido aqui 😃). 
 <br /><br />
 
 ### Linguagens
